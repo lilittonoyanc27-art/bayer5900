@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Armenian Quiz",
+  "description": "An interactive Spanish learning application in Armenian featuring random exam tickets, reveal-on-click translations, and AI-powered grammar checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
